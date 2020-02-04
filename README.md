@@ -1,2 +1,3 @@
 # CIS241
-For Web Design 1 Class
+My First Github Webpage
+Elliot Blaufuss
